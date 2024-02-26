@@ -26,4 +26,3 @@ Here we use the in the wild video provided by [Neuman](https://github.com/apple/
     - uses [ROMP](https://github.com/Arthur151/ROMP) to estimate camera and smpl parameters
 4. run the bash script `bash ./bash/run-neuman-demo.sh` to learn an avatar
 
-```
